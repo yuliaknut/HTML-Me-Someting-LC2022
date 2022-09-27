@@ -1,0 +1,80 @@
+body {
+    display: block;
+    margin: 8px;
+    background-color: #F2F2F2;
+    font-family: sans-serif;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  h1 {
+    color: #293462;
+    text-align: center;
+    font-size: xxx-large;
+    padding-top: 1%;
+  }
+  h2 {
+    color: #5F7161;
+    text-align: center;
+    padding-top: 1%;
+    font-size: xx-large;
+  }
+  h3 {
+    color: #293462;
+  }
+  h4 {
+    color: #293462;
+  }
+  p {
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2%;
+    color:rgb(61, 60, 60);
+    font-size: large;
+  }
+  a {
+    text-decoration: none;
+  }
+  a:hover {
+    color: #F96666;
+  }
+  .dashed {
+    border-style: none none dashed;
+    border-width: 5px;
+    height: 2px;
+    width: 15%;
+    border-color: #82954B;
+  }
+  .nonDashed {
+    color: #F96666;
+}
+  #intro {
+    padding: 0%;
+  }
+  #article {
+    text-align: left;
+    margin-left: 1%;
+    padding-bottom: 0%;
+    font-size: medium;
+  }
+
+  
+ #mainHeading {
+    color: #F96666;
+  }
+#testP {
+    text-align: left;
+    margin-left: 1%;
+    padding-bottom: 0%;
+    font-size: medium;
+}
+.FunParagraph {
+    color:#82954B
+}
+
+
